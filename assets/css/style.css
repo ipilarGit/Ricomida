@@ -1,0 +1,54 @@
+/* Estilos Ricomida*/
+body {
+     font-family: 'Cabin',
+          sans-serif;
+     color: #212529;
+     font-weight: 200;
+     margin-top: 100px;
+}
+
+.span-nav {
+     font-family: 'Lobster',
+          cursive;
+     font-size: 20px;
+     text-align: center;
+}
+
+#titulo-pitza-movil,
+#titulo-pitza-pc {
+     text-align: center;
+}
+
+.circulo {
+     width: 10px !important;
+     height: 10px !important;
+     background-color: black !important;
+     border-radius: 50%;
+}
+
+#recetas,
+#titulo-receta-relacionadas {
+     text-align: center;
+}
+
+#titulo-suscribete {
+     text-align: center;
+}
+
+#logo-contacto-suscribete {
+     font-family: 'Lobster',
+          cursive;
+     font-size: 25px;
+     text-align: center;
+}
+
+#pie-logo {
+     font-family: 'Lobster',
+          cursive;
+     font-size: 20px;
+     text-align: center;
+}
+
+.slow {
+     display: none
+}
